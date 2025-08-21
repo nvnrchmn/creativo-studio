@@ -10,7 +10,7 @@ export function Services() {
           <p className="uppercase tracking-wide text-xs font-semibold text-muted-foreground">Our Services</p>
           <h2 className="mt-2 text-2xl md:text-3xl font-bold">Visual Branding</h2>
           <p className="mt-2 text-muted-foreground">
-            Your brand is more than just a logo; it's the essence of your business.
+            {"Your brand is more than just a logo; it's the essence of your business. We help you create a visual identity that tells your story, resonates with your audience, and stands out in the market."}
           </p>
         </div>
 

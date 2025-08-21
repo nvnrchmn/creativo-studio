@@ -10,11 +10,10 @@ export function Hero() {
           Where <span className="text-primary">Design</span> Meets Innovation!
         </h1>
         <p className="mt-4 text-muted-foreground max-w-prose">
-          Whether you're a startup looking to establish your brand identity or an established business aiming to refresh your image,
-          we've got the creative firepower to make it happen.
+          {"Whether you're a startup looking to establish your brand identity or an established business aiming to refresh your image, we've got the creative firepower to make it happen."}
         </p>
         <div className="mt-6 flex flex-col sm:flex-row gap-3">
-          <Button asChild><a href="#contact">Let's Talk</a></Button>
+          <Button asChild><a href="#contact">{"Let's Talk"}</a></Button>
           <Button asChild variant="outline"><a href="#portfolio">Lihat Portfolio</a></Button>
         </div>
 
